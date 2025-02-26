@@ -1,5 +1,5 @@
 {
-  "name": "html-docx-js",
+  "name": "html-docx-js-version-updated",
   "version": "0.3.1",
   "description": "Converts HTML documents to DOCX in the browser",
   "main": "build/api.js",
@@ -17,11 +17,7 @@
       "brfs"
     ]
   },
-  "author": "Artur Nowak <artur.nowak@evidenceprime.com>",
-  "contributors": [{
-    "name": "Ievgen Martynov",
-    "email": "ievgen.martynov@gmail.com"
-  }],
+  "author": "Yarooq Anwar <yarooq1@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "brfs": "^1.1.2",
@@ -47,6 +43,6 @@
   "dependencies": {
     "jszip": "^2.3.0",
     "lodash.escape": "^3.0.0",
-    "lodash.merge": "^3.2.0"
+    "lodash.merge": "^4.6.2"
   }
 }
